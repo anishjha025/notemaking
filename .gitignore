@@ -5,3 +5,11 @@
 .DS_Store
 /build
 /captures
+
+
+# Android Studio
+*.iml
+.idea
+
+# .swp files
+*.swp
